@@ -40,3 +40,15 @@ a input file such as example.pcap, a output file such as output.pcap, a line num
   <img src="git/screenshot2.png" width="350" title="hover text">
 </p>
 
+# example 
+
+`go run main.go input.pcap output.pcap 511 1024`
+
+input.pcap = input file 
+
+output.pcap = output file 
+
+511 = line number to grab packet from input.pcap
+
+1024 = snaplength
+
