@@ -22,12 +22,21 @@ a input file such as example.pcap, a output file such as output.pcap, a line num
 
 **INPUT FILE**
 
-![](git/screenshot1.png)
+<p align="center">
+  <img src="git/screenshot2.png" width="350" title="hover text">
+</p>
+
 
 **OUTPUT FROM TOOL**
 
-1[](git/demo1.png)
+<p align="center">
+  <img src="git/demo1.png" width="350" title="hover text">
+</p>
+
 
 ** OUTPUT PCAP FILE **
 
-![](git/screenshot2.png)
+<p align="center">
+  <img src="git/screenshot2.png" width="350" title="hover text">
+</p>
+
